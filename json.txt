@@ -1,8 +1,8 @@
 [
   {
     "id": "e4d8aef281ee8af2",
-    "username": "SIMOV1",
-    "password": "V1",
+    "username": "user1",
+    "password": "simo123",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
