@@ -3,7 +3,7 @@
     "id": "e4d8aef281ee8af2",
     "username": "user1",
     "password": "simo123",
-    "expiresAt": "2025-12-31",
+    "expiresAt": "2027-12-31",
     "allowOffline": true
   },
   {
